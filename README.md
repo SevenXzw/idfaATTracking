@@ -1,0 +1,2 @@
+# idfaATTracking
+idfa使用runtime方式适配iOS14，效果就是不需要你的工程依赖AppTrackingTransparency.framework，（此模块的开发是有项目过审核的经验，有混淆动作）
